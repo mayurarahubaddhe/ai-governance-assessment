@@ -19,7 +19,7 @@ This is a deliberate, disclosed limitation, not a hidden one: an AI-assisted evi
 
 ## Try it
 
-**[Open the live tool](https://yourusername.github.io/your-repo-name/)** - runs directly in your browser, no install, no account, no download.
+**[Open the live tool](https://mayurarahubaddhe.github.io/ai-governance-assessment/)** - runs directly in your browser, no install, no account, no download.
 
 Two demo scenarios are preloaded for quick testing - a high-risk credit engine and a low-risk internal summarizer - so you can see the full report output without doing all 74 criteria by hand first.
 
